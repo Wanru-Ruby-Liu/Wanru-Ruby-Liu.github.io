@@ -1,25 +1,25 @@
 ---
-title: "Simone"
+title: "Wanru(Ruby) Liu"
 about:
   template: jolla
   image: profile.jpg
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://x.com/querube1103
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Wanru-Ruby-Liu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/wanru-ruby-liu
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I am Wanru Liu, a Ph.D. student in Health Services Research at Brown University School of Public Health. My research lies at the intersection of health economics, aging, and health policy, with a particular focus on Medicare, long-term care, and payment reform.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+My academic and research experiences span across multiple institutions including Harvard Kennedy School, MIT Sloan, and Tsinghua University. I have conducted both quantitative and qualitative work in healthcare evaluation, payment systems, and chronic disease management.
 
-Please feel free to get in touch!
+If you'd like to connect, feel free to email me at wanru_liu@brown.edu
