@@ -1,51 +1,51 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wanru (Ruby) Liu",
+    "section": "",
+    "text": "I am Wanru Liu, a Ph.D. student in Health Services Research at Brown University School of Public Health. My research lies at the intersection of health economics, aging, and health policy, with a particular focus on Medicare, long-term care, and payment reform."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Wanru (Ruby) Liu",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "I am Wanru Liu, a Ph.D. student in Health Services Research at Brown University School of Public Health. My research lies at the intersection of health economics, aging, and health policy."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
+    "title": "Wanru (Ruby) Liu",
     "section": "Education",
-    "text": "Education\nWhere I studied"
+    "text": "Brown University, Ph.D. in Health Services Research — Expected May 2028\nHarvard T.H. Chan School of Public Health, M.S. — May 2024\nUniversity of Michigan – Ann Arbor, B.S. — May 2022"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Wanru (Ruby) Liu",
     "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "Switching Between Medicare Advantage and Fee-for-Service After Moving to Assisted Living",
-    "section": "",
-    "text": "An analysis of Medicare plan switching patterns among older adults moving into assisted living, with emphasis on dementia care licensing, cognitive impairment, and stability of enrollment using national Medicare datasets."
+    "text": "Research on Medicare plan switching, Chinese health reform, philanthropy, primary care, schizophrenia interventions, and labor market perceptions of women."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "The research details were updated on March 29, 2025.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching Between Medicare Advantage and Fee-for-Service After Moving to Assisted Living\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nWanru Liu\n\n\n\n\n\n\nNo matching items"
+    "text": "All of my research projects, including health economics, aging, policy reform, and care quality evaluations across the U.S. and China."
+  },
+  {
+    "objectID": "research/paper-1.html",
+    "href": "research/switching-medicare.html",
+    "title": "Switching Between Medicare Advantage and Fee-for-Service After Moving to Assisted Living",
+    "section": "",
+    "text": "An analysis of Medicare plan switching patterns among older adults moving into assisted living, with emphasis on dementia care licensing, cognitive impairment, and stability of enrollment using national Medicare datasets."
   },
   {
     "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "href": "research/payment-reform-china.html",
+    "title": "The Impact of the 2017 Health Payment Reform in a Chinese City",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Simone",
-    "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "A controlled interrupted time series evaluating efficiency and safety in Chinese public hospitals under DRG-based pay-for-performance, using SAS to assess hospital performance from 2014–2022."
   }
 ]
