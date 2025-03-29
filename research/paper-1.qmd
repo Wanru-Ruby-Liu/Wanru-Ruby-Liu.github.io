@@ -1,11 +1,9 @@
 ---
-title: "My First Paper"
-author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+title: "Switching Between Medicare Advantage and Fee-for-Service After Moving to Assisted Living"
+author:
+  - Wanru Liu
+
+date: "January 2025 - Present"
 ---
 
-A description of my paper.
-
-Could include a photo, or links, or anything at all!
+An analysis of Medicare plan switching patterns among older adults moving into assisted living, with emphasis on dementia care licensing, cognitive impairment, and stability of enrollment using national Medicare datasets.
